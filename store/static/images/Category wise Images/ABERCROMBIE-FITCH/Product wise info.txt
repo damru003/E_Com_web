@@ -1,0 +1,156 @@
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Abercrombie & Fitch 1
+
+title = ABERCROMBIE & FITCH AUTHENTIC NIGHT EAU DE TOILETTE MEN'S AFTERSHAVE SPRAY (50ML, 100ML)
+
+
+description = 
+
+About The Product:
+Authentic Night Man by Abercrombie & Fitch is an amber fragrance for men. The scent is by Gil Clavien who “wanted to create a 'see-through' effect to tell the story of contrast and tension. 
+Refreshing fruity top notes mingle with deep notes of vanilla, tonka bean and leather. Housed in a stylish bottle in ombre glass.
+
+Fragrance Type:
+Fougere-oriental
+
+Fragrance Notes:
+- Top notes: Apple, Rhubarb, Lotus
+- Middle notes: Vanilla, Lavender, Clary Sage
+- Base note: Tonka Bean, Leather, Oakmoss
+
+Launched:
+2020
+
+price = 1999rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Abercrombie & Fitch 2
+
+
+title = ABERCROMBIE & FITCH AUTHENTIC WOMAN EAU DE PARFUM WOMEN'S PERFUME SPRAY (50ML, 100ML)
+
+description = 
+
+About The Product:
+Abercrombie & Fitch Authentic for women is a citric-floral-woody fragrance.
+Designed around the concept of being true to yourself Authentic is a diverse fragrance for those who look past looks or appearance.
+This fruity-floral blend includes notes of pear, mandarin, redcurrant, magnolia, lily of the valley on a woody base.
+The advertisement for the scent promotes us to "challenge social conventions".
+
+Fragrance Type:
+Citrus, Floral, Woody
+
+Fragrance Notes:
+- Top notes: Pear, Mandarin, Redcurrant
+- Middle notes: Magnolia, Nectarine, Lily of the Valley
+- Base notes: Ambrette, Cedarwood, Sandalwood
+
+Launched:
+2019
+
+price = 2299rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Abercrombie & Fitch 3
+
+title = ABERCROMBIE & FITCH AUTHENTIC MAN EAU DE TOILETTE MEN'S AFTERSHAVE SPRAY (50ML, 100ML)
+
+description = 
+
+About The Product:
+Abercrombie & Fitch Authentic Man is a citrus-woody-aromatic fragrance. Designed around the concept of being true to yourself Authentic is a diverse fragrance for those who look past looks or appearance. 
+A masculine blend which includes notes of grapefruit, bergamot, pink pepper, sage and suede. The advertisement for the scent promotes us to "challenge social conventions".
+
+Fragrance Type:
+Citrus Woody
+
+Fragrance Notes:
+- Top notes: Grapefruit, Bergamot, Pink Pepper
+- Middle notes: Lavender, Sage, Ginger
+- Base notes: Clearwood, White Moss, Suede
+
+Launched:
+1965
+
+price = 2599rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Abercrombie & Fitch 4
+
+title = ABERCROMBIE & FITCH FIRST INSTINCT EAU DE TOILETTE MEN'S AFTERSHAVE SPRAY (50ML, 100ML)
+
+discription = 
+
+About The Product:
+First Instinct is a modern fragrance, balancing fresh elements of fougere with oriental warmth. With a subtle gin and tonic opening, notes of pepper, violet leaf, 
+suede and amber flow around a base of musk. The scent comes in sleek glass flacon in a unique rippling design reminiscent of undulating water.
+
+Fragrance Type:
+Fresh
+
+Fragrance Notes:
+- Top notes: Gin, Tonic Water, Melon
+- Middle notes: Pepper, Violet Leaf, Citrus
+- Base notes: Suede, Musk, Amber
+
+Launched:
+2016
+
+price = 2399rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Abercrombie & Fitch 5
+
+title = ABERCROMBIE & FITCH FIRST INSTINCT TOGETHER MAN EAU DE TOILETTE MEN'S AFTERSHAVE SPRAY (100ML)
+
+discription = 
+
+About The Product:
+First Instinct Together Eau de Toilette For Him by Abercrombie & Fitch is a Woody Aromatic fragrance for men. 
+A tantalising and captivating scent that exudes a sense of confidence, power, and masculine charm. This fragrance is perfect for the modern man 
+who is in touch with his senses and seeks to stand out from the crowd.
+
+Fragrance Type:
+Woody Aromatic
+
+Fragrance Notes:
+- Top notes: Green Apple, Pineapple Leaf, Grapefruit and Cardamom
+- Middle notes: Lavender and Orange Blossom
+- Base notes: Musk, Sandalwood and Cedar
+
+Launched:
+2020
+
+price = 3299rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Abercrombie & Fitch 6
+
+title = ABERCROMBIE & FITCH FIRST INSTINCT TOGETHER MAN EAU DE TOILETTE MEN'S AFTERSHAVE SPRAY (100ML)
+
+discription = 
+
+About The Product:
+Indulge in the captivating essence of Abercrombie & Fitch's Away Tonight Eau de Toilette Men's Aftershave Spray. Crafted for the modern gentleman, 
+this invigorating scent embodies confidence and allure. With refreshing notes that linger throughout the day, it's the perfect companion for any occasion. 
+
+Fragrance Type:
+Woody
+
+Fragrance Notes:
+- Top Notes: Bergamot, Pink Grapefruit, Pink Pepper
+- Middle Notes: Vetiver, Geranium, Carrot
+- Base Notes: Sandalwood, Patchouli, Cedar
+
+Launched:
+2022
+
+price = 3699rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

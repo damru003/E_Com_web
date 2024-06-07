@@ -1,0 +1,171 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Creed 1
+
+title = CREED AVENTUS FOR HER EAU DE PARFUM WOMEN'S PERFUME SPRAY (30ML, 75ML)
+
+discription = 
+
+About The Product:
+Aventus for her is a fruity-floral fragrance for women by Creed. The exclusive, best selling feminine counterpart to the legendary Aventus.
+Opulent and distinctive, this fruity floral scent opens with accords of crisp green apple blended with fragrant pink pepper and sparkling Calabrian bergamot creating the most unique scent. 
+
+"Inspired by history's most powerful women - from royalty and visionaries to artists and writers - whilst heralding the strong, modern woman of today."
+
+Fragrance Notes:
+Top notes: Green Apple, Pink Pepper, Indonesian Patchouli, Calabrian Bergamot
+Middle notes: Bulgarian and Turkish Roses, Indian Sandalwood, Styrax, Musk
+Base notes: Peach, Cassis, Lilac, Amber, Ylang-Ylang
+
+Launched:
+2016
+
+price = 17299rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Creed 2
+
+title = CREED HIMALAYA EAU DE PARFUM UNISEX FRAGRANCE SPRAY (50ML, 100ML)
+
+discription = 
+
+About The Product:
+Himalaya by Creed is an Amber Woody fragrance for men. Creed Himalaya is a masculine and versatile fragrance that was inspired by the mountainous region of the Himalayas and the majestic natural beauty that surrounds it. 
+The scent opens with a fresh and zesty burst of grapefruit, bergamot, and lemon that is invigorating and uplifting.
+
+Fragrance Type:
+Amber Woody
+
+Fragrance Notes:
+- Top notes: Calabrian Bergamot, Grapefruit and Sicilian Lemon
+- Middle notes: Sandalwood
+- Base notes: Musk, Ambergris and Cedar
+
+Launched:
+2005
+
+price = 23299rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Creed 3
+
+title = CREED ORIGINAL SANTAL EAU DE PARFUM UNISEX FRAGRANCE SPRAY (50ML, 100ML)
+
+discription = 
+
+About The Product:
+Original Santal by Creed is an Amber Woody fragrance for women and men. A luxurious and elegant fragrance,inspired by the rich cultural heritage of India and is perfect for those who appreciate fragrances with a rich and complex character. 
+The scent opens with the rich and spicy notes of cinnamon, coriander, and juniper berries that create an exotic and warm atmosphere. 
+
+Fragrance Type:
+Amber Woody
+
+Fragrance Notes:
+- Top notes: Juniper Berries, Coriander, Ginger, Rosemary, Bergamot and Mandarin Orange
+- Middle notes: Sandalwood, Lavender, Orange Blossom and Geranium
+- Base notes: Tonka Bean, Musk, Cedar and Oakmoss
+
+Launched:
+2005
+
+price = 28999rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Creed 4
+
+title = CREED WIND FLOWERS EAU DE PARFUM WOMEN'S PERFUME SPRAY (75ML)
+
+discription = 
+
+About The Product:
+Wind Flowers by Creed is a Floral fragrance for women. Inspired by movement, Wind Flowers is the latest women's perfume from the House of Creed. Floral and fresh, 
+this fragrance opens with sweet jasmine, wrapped around the zesty scent of Tunisian orange blossom and softened by a fresh and a fruity peach note, a powerful heart of delicate jasmine flower, 
+tuberose petals and a soft rose extract add depth and texture to this fragrance while a warm flurry of sandalwood is twisted around a haze of iris and musk.
+
+Fragrance Type:
+Floral
+
+Fragrance Notes:
+- Top notes: Jasmine, Orange Blossom and Peach
+- Middle notes: Jasmine Sambac, Tuberose and Rose
+- Base notes: Musk, Orange Blossom, Praline, Sandalwood and Iris
+
+Launched:
+2021
+
+price = 24599rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Creed 5
+
+title = CREED LOVE IN BLACK EAU DE PARFUM WOMEN'S PERFUME SPRAY (75ML)
+
+discription = 
+
+
+About The Product:
+Love in Black by Creed is a Floral fragrance for women. A fragrance that embodies the beauty and mystery of love in the darkness. 
+As soon as the scent hits your senses, you're taken on a journey through the woods, with the smell of wildflowers and cedar lingering in the air. 
+The Italian Violet brings a gentle sweetness to the scent, while the Virginia Cedar gives it a woody depth. 
+
+Fragrance Type:
+Floral
+
+Fragrance Notes:
+- Top Notes: Italian Violet, Virginia Cedar and Wildflowers
+- Middle Notes: Iris, Musk and Cloves
+- Base Notes: Black Currant and Bulgarian Rose
+
+Launched:
+2008
+
+price = 20799rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Creed 6
+
+title = CREED LOVE IN BLACK EAU DE PARFUM WOMEN'S PERFUME SPRAY (75ML)
+
+discription =
+
+About The Product:
+Acqua Fiorentina by Creed is a Floral Fruity fragrance for women. Acqua Fiorentina is a women's fragrance inspired by the art and culture of the Renaissance in 15th century Florence, 
+Italy. This fruity-floral fragrances features ingredients sourced from orchards and farms in the Florence region. The fragrance opens with greengage plum and bergamot. 
+The heart blooms with rose, pink carnation, Calabrian lemon on a warm base of Virginia cedarwood and Indian sandalwood.
+
+Fragrance Type:
+Floral Fruity
+
+Fragrance Notes:
+- Top notes: Apple and Plum
+- Middle notes: Bergamot, Sicilian Bergamot, Lemon, Pear and Rose
+- Base notes: White Grapefruit, Virginia Cedar and Sandalwood
+
+Launched:
+2009
+
+price = 21999rs. 
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

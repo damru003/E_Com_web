@@ -1,0 +1,151 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Jimmy Choo 1
+
+title = JIMMY CHOO EAU DE PARFUM WOMEN'S PERFUME SPRAY (40ML, 60ML, 100ML)
+
+discription = 
+
+About The Product:
+Launched in 2011 Jimmy Choo is a feminine, seductive, modern chypre fruity fragrance. 
+Opening with luminous green top notes full of glittering radiance, the heart of rich and exotic tiger orchid lends a creamy seductiveness to the fragrance. 
+Lingering sensual base notes of sweet toffee melt with Indonesian patchouli to leave a subtle, sensual memory on the skin. The textured glass bottle is inspired by Murano glass.
+
+Fragrance Type:
+Chypre Fruity
+
+Fragrance Notes:
+- Top notes: Mandarin Orange, Pear, Green Notes
+- Middle notes: Tea Rose, Tiger Orchid
+- Base notes: Toffee, Patchouli
+
+Launched:
+2011
+
+price = 3499rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Jimmy Choo 2
+
+title = JIMMY CHOO MAN ICE EAU DE TOILETTE MEN'S AFTERSHAVE SPRAY (30ML, 50ML, 100ML)
+
+discription = 
+
+About The Product:
+Jimmy Choo Man Ice exudes the same pure masculinity and confidence that defines the Jimmy Choo Man. His intense sensuality subsides as he succumbs to a more whimsical side.
+Refreshingly powerful Man Ice is a woody-aromatic fragrance opening with fresh notes of citrus and bergamot woody vetiver, patchouli, cedar and  crisp apple on a base of musk and ambroxan.
+
+Fragrance Type:
+Woody, Aromatic
+
+Fragrance Notes:
+- Top notes: Mandarin Orange, Bergamot, Citron
+- Middle notes: Vetiver, Patchouli, Cedar, Apple
+- Base notes: Musk, Moss, Ambroxan
+
+Launched:
+2017
+
+price = 2599rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Jimmy Choo 3
+
+title = JIMMY CHOO BLOSSOM EAU DE PARFUM WOMEN'S PERFUME SPRAY (40ML, 60ML, 100ML)
+
+discription = 
+
+About The Product:
+Transport yourself to a delightful English country garden with Jimmy Choo Blossom.
+This captivating scent, launched in 2015, contains a crisp mix of notes to invigorate the senses. A medley of citrus, red berries and raspberry mingles with delicate notes of rose and sweet pea to envelop your body in fragrance, leaving you feeling beautifully feminine and youthful.
+
+Fragrance Type:
+Floral
+
+Fragrance Notes:
+- Top notes: Citrus, Red Berries, Raspberry
+- Middle notes: Sweet Pea, Rose
+- Base notes: Sandalwood, White Musk
+
+Launched:
+2015
+
+price = 3099rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Jimmy Choo 4
+
+title = JIMMY CHOO FEVER EAU DE PARFUM WOMEN'S PERFUME SPRAY (40ML, 60ML, 100ML)
+
+discription = 
+
+About The Product:
+Jimmy Choo Fever, the latest perfume from the iconic brand, is a powerful, glamorous, and sexy hot floral fragrance with fruity gourmand notes of plum, lychee, heliotrope, vanilla orchid, sandalwood, and vanilla. Housed in the beautiful classic-shaped glass bottle based on Murano glass, it is tinted with a plum color and features a gold/plum top. The box is metallic plum with hints of gold. The strong composition of Jimmy Choo Fever Perfume will take its wearer into the night, leaving an addictive, sensual trail behind her.
+
+Fragrance Type:
+Fruity
+
+Fragrance Notes:
+- Top notes: Black Plum, Lychee, Grapefruit
+- Middle notes: Heliotrope, Vanilla Orchid, Jasmine, Orange Blossom
+- Base notes: Benzoin, Sandalwood, Tonka Bean, Coffee, Hazelnut, Vanilla
+
+Launched:
+2018
+
+price = 3099rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Jimmy Choo 5
+
+title = JIMMY CHOO FEVER EAU DE PARFUM WOMEN'S PERFUME SPRAY (40ML, 60ML, 100ML)
+
+discription = 
+
+About The Product:
+Jimmy Choo Floral is a captivating, graceful floral-fruity fragrance for women.
+Bright and subtle this scent is an expression of femininity capturing perfectly a  springtime in the city with its harmonious blend of floral, fruity and musky notes. 
+Nature explodes into bloom and the texture of each flower petal is almost tangible.The bottle comes in pale green, topped with a matching cap with contemporary silver edging.
+
+Fragrance Type:
+Floral, Fruity
+
+Fragrance Notes:
+- Top notes: Tangerine, Bergamot, Nectarine
+- Middle notes: Magnolia, Sweet Pea, Apricot Blossom
+- Base notes: Musk, Ambroxan, Woody Notes
+
+Launched:
+2019
+
+price = 4299rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Jimmy Choo 6
+
+title = JIMMY CHOO FLASH EAU DE PARFUM WOMEN'S PERFUME SPRAY (60ML, 100ML)
+
+discription = 
+About The Product:
+Jimmy Choo Flash is a delicious and feminine fruity eau de parfum that will make you feel sexy and confident. Created by world-renowned perfumer Christine Nagel, 
+this women's luxury perfume has top notes of strawberry, pink pepper, and tangerine, middle notes of jasmine, lily, and tuberose, and base notes of heliotrope and blond wood.
+
+Fragrance Type:
+Fruity
+
+Fragrance Notes:
+- Top notes: Strawberry, Pink Pepper, Tangerine
+- Middle notes: Jasmine, Lily, Tuberose
+- Base notes: Heliotrope, Blond Wood
+
+Launched:
+2013
+
+price = 3699rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

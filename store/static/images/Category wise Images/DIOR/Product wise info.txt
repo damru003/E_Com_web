@@ -1,0 +1,148 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dior 1
+
+title = DIOR MISS DIOR BLOOMING BOUQUET EAU DE TOILETTE WOMEN'S PERFUME SPRAY (50ML, 75ML, 100ML, 150ML)
+
+discription = 
+
+About The Product:
+Miss Dior Blooming Bouquet embodies a spring awakening with its subtle florals and refreshing fruits. It encapsulates the true spirit of Miss Dior.
+This soft and elegant scent opens with a burst of Sicilian mandarin. The heart is
+a feminine and romantic composition of pink peony, rose, apricot and peach. This is all wrapped in a velvety and seductive base of white musk.
+Launched in 2014.
+
+Fragrance Notes:
+Top notes: Sicilian Mandarin
+Middle notes: Pink Peony, Damask Rose, Apricot, Peach
+Base notes: White Musk
+
+Launched:
+2016
+
+price = 8299rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dior 2
+
+title = DIOR ADDICT EAU DE TOILETTE WOMEN'S PERFUME SPRAY (50ML, 100ML)
+
+discription = 
+
+About The Product:
+Dior Addict Eau de Toilette by Dior is a Amber Floral fragrance for women. A tantalising and elegant fragrance that begins with a bright burst of Sicilian Mandarin, providing a fresh and citrusy kick that instantly awakens the senses. 
+As it settles, the heart notes of Jasmine Sambac and Tunisian Neroli come into play, adding a rich, floral depth that's intoxicating and passionately feminine.
+
+Fragrance Type:
+Amber Floral
+
+Fragrance Notes:
+- Top notes: Sicilian Mandarin
+- Middle notes: Jasmine Sambac and Tunisian Neroli
+- Base notes: Vanilla and Sandalwood
+
+Launched:
+2014
+
+price = 9099rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dior 3
+
+title = DIOR MISS DIOR ROSES N'ROSES EAU DE TOILETTE WOMEN'S PERFUME SPRAY (30ML, 50ML, 100ML, 150ML)
+
+discription = 
+
+About The Product:
+Miss Dior Roses N'Roses by Dior is an extremely feminine, fresh and modern Eau de Toilette. François Demachy, Dior Perfumer Creator, said he "wanted to renew with that powerful feeling of 'nature' 
+like when i was a child and first saw the fields of flowers blooming in May". François created a bright and radiant profusion of Grasse and Damascus Rose, the freshness and scent of the delicate petals sweeps.
+
+Fragrance Type:
+﻿Floral
+
+Fragrance Notes:
+- Top notes: Italian Mandarin, Bergamot, Geranium Essence
+- Middle notes: Grasse Rose, Damask Rose
+- Base notes: White Musk
+
+Launched:
+2020
+
+price = 8299rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dior 4
+
+title = DIOR EAU SAUVAGE EAU DE TOILETTE MEN'S AFTERSHAVE SPRAY (100ML)
+
+discription = 
+
+About The Product:
+Eau Sauvage by Dior is a Citrus Aromatic fragrance for men. A timeless elegant classic scent for the rogue yet gentlemanly man. A fragrance with style and good taste. 
+Its floral citrus signature is both refined and powerful, sophisticated and fresh. The subtle balance of bergamot and hedione creates a velvety floral quality. 
+The masculine, woody nuances of the base complete this mysterious and hedonistic olfactory experience.
+
+Fragrance Type:
+Citrus Aromatic
+
+Fragrance Notes:
+- Top Notes: Lemon, Bergamot, Basil, Rosemary, Caraway and Fruity Notes
+- Middle Notes: Jasmine, Coriander, Carnation, Orris Root, Patchouli, Sandalwood and Rose
+- Base Notes: Oakmoss, Vetiver, Musk and Amber
+
+Launched: 1966
+
+price = 8299rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dior 5
+
+title = DIOR SAUVAGE PARFUM MEN'S AFTERSHAVE SPRAY (60ML, 100ML)
+
+discription = 
+
+About The Product:
+Sauvage Parfum is an oriental-fougere fragrance for men.
+Inspired by the wide-open space of the desert at twilight.
+This highly concentrated interpretation of the original Sauvage combines extreme freshness with warm oriental notes.
+
+
+Fragrance Notes:
+Top notes: Bergamot, Mandarin Orange, Elemi
+Middle notes: Sandalwood
+Base notes: Olibanum, Tonka Bean, Vanilla
+
+Launched in 2019
+
+price = 9499rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dior 6
+
+title = DIOR J'ADORE PARFUM D'EAU EAU DE PARFUM WOMEN'S PERFUME SPRAY (50ML, 100ML)
+
+discription = 
+
+About The Product:
+J'adore Parfum d'Eau by Dior is a Floral fragrance for women. As the fragrance fills the air, it immediately transports you to a serene garden, surrounded by the soft, fresh scent of Neroli from Vallauris. 
+This delightful top note adds a touch of elegance to the perfume, leaving a lingering fragrance that makes you feel alive.
+
+Fragrance Type:
+Floral
+
+Fragrance Notes:
+- Top notes: Neroli from Vallauris
+- Middle notes: Jasmine Sambac
+- Base notes: Chinese Magnolia
+
+Launched:
+2022
+
+price = 9199rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

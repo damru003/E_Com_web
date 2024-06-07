@@ -1,0 +1,177 @@
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Armani 1
+
+title = ARMANI IN LOVE WITH YOU EAU DE PARFUM WOMEN'S PERFUME SPRAY (30ML, 50ML, 100ML)
+
+discription = 
+
+About The Product:
+Emporio Armani In Love With You is a reimagining of Armani's Because It's You scent. Inspired by passion and the feeling of being in love. 
+This fragrance is a composition of opposites with both gentle and bold notes throughout. The scent is both modern and playful with its unique blend.
+Tangy sour cherry, sparkling raspberry and blackcurrant open the scent to instantly surprise.
+
+Fragrance Type:
+Fruity
+
+Fragrance Notes:
+- Top notes: Sour Cherry, Raspberry, Blackcurrant
+- Middle notes: Rose, Jasmine, Wormwood
+- Base notes: Patchouli
+
+Launched:
+2019
+
+price = 9799rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Armani 2 
+
+title = ARMANI CODE FEMME EAU DE PARFUM WOMEN'S PERFUME SPRAY (30ML, 50ML, 75ML)
+
+discription = 
+
+About The Product:
+Code Femme, the signature fragrance by Armani.
+A simple, sensual, feminine fragrance created with orange blossom at its heart, embraced with vanilla and a touch of honey.
+An unforgettable fragrance, exuding a mysterious charm.
+
+Fragrance Type:
+Fruity
+
+Fragrance Notes:
+- Top notes: Jasmine, Bitter Orange, Italian Orange
+- Middle notes: Orange Blossom, Jasmine, Ginger
+- Base notes: Honey, Vanilla, Sandalwood
+
+Launched:
+2006
+
+price = 7799rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Armani 3
+
+title = ARMANI MY WAY EAU DE PARFUM WOMEN'S PERFUME SPRAY (15ML, 30ML, 50ML, 90ML)
+
+discription = 
+
+About The Product:
+My Way by Armani is a contemporary floral fragrance for women. A fragrance for a new generation.; encapsulating curiosity and connections with others. 
+Truly learning from others, reinventing herself; one finds the path to the truest version of oneself. Inspired by the true search for meaning, creating a profound way to be. 
+
+Fragrance Type:
+Floral
+
+Fragrance Notes:
+- Top notes: Bergamot from Calabria, Orange Blossom from Egypt
+- Middle notes: Tuberose, Jasmine from India
+- Base notes: Cedarwood from Virginia, Vanilla from Madagascar, White Musk
+
+Launched:
+2020
+
+price = 6199rs.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Armani 4
+
+title = ARMANI CODE EAU DE TOILETTE MEN'S AFTERSHAVE SPRAY (15ML, 30ML, 50ML, 75ML, 125ML)
+
+discription = 
+
+About The Product:
+Armani Code for men is an iconic fragrance filled with captivating contrasts, Armani Code for men is now encapsulated in a new statement bottle. 
+This Ambery Woody fragrance never ceases to create a mood of seductive and sensitive masculinity reflecting the contemporary, forward-looking man.
+
+Fragrance Type:
+Fruity
+
+Fragrance Notes:
+- Top notes: Bergamot, Lemon
+- Middle notes: Star Anise, Olive Blossom, Guaiac Wood
+- Base notes: Leather, Tobacco, Tonka Bean
+
+Launched:
+2004
+
+price = 8799rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Armani 5
+
+title = ARMANI ACQUA DI GIOIA EAU DE PARFUM WOMEN'S PERFUME SPRAY (30ML, 50ML, 100ML)
+
+discription = 
+
+About The Product:
+Acqua di Gioia by Giorgio Armani is a floral fruity fragrance for women. A beautiful fresh fragrance inspired by Giorgio Armani’s holiday spent on the isle of Pantelleria. 
+Enjoy aquatic notes with sweet and fruity notes of muscat grapes with refreshing pineapple and citrus notes. Watermelon blends with the notes of freesia, hyacinth and ylang-ylang.
+
+Fragrance Type:
+Floral, Fruity
+
+Fragrance Notes:
+- Top Notes: Peony, Musk Vodka, Pineapple, Lemon, Peach, Banana Leaf, Violet
+- Middle Notes: Lily-of-the-Valley, Lily, Hiacynth, Jasmine, Freesia, Ylang-Ylang
+- Base Notes: Musk, Cedar, Sandalwood, Amber, Styrax
+
+Launched:
+1995
+
+price = 5599rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Armani 6
+
+title = ARMANI DIAMONDS EAU DE PARFUM WOMEN'S PERFUME SPRAY (50ML, 100ML)
+
+discription = 
+
+About The Product:
+Emporio Armani Diamonds by Giorgio Armani is an Amber Floral fragrance for women. A gourmand-floral with a sparkling, juicy, irresistible feminine scent. 
+The top notes are litchi and raspberry, the middle notes are freesia and lily of the valley, and the base are vetiver, cedar wood, patchouli and vanilla.
+
+Fragrance Type:
+Amber Floral
+
+Fragrance Notes:
+- Top notes: Litchi and Raspberry
+- Middle notes: Rose, Patchouli, Freesia, Cedar and Lily-of-the-Valley
+- Base notes: Vanilla, Amber and Vetiver
+
+Launched:
+2007
+
+price = 6699rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

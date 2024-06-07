@@ -1,0 +1,53 @@
+{% extends 'base.html' %}
+
+{% load static %}
+
+{% block title %} Orders {% endblock title %}
+
+{% block content %}
+
+{% load cart %}
+
+
+    <div class="container" style="margin-top: 100px;">
+        <div class="border rounded p-4 m-4">
+            <p class="display-4 pl-4 ml-4 fw-bold text-danger text-center">Your Orders</p>
+            <hr>
+            <table class="table">
+                    <thead>
+                    <tr>
+                        <th>SL.no</th>
+                        <th>Image</th>
+                        <th>Product Name</th>
+                        <th>Quantity</th>
+                        <th>Date</th>
+                        <th>Price</th>
+                        <th>Status</th>
+                        
+                    </tr>
+                    </thead>
+                    <tbody>
+                        {% for order in orders %}
+                    <tr>
+                        <td>{{forloop.counter}}.</td>
+                        <td><img src="{{order.product.image.url}}" width="100px"></td>
+                        <td >{{order.product.name}}</td>
+                        <td>{{order.quantity}}</td>
+                        <td >{{order.date}}</td>
+                        <td class="text-danger fw-bold">₹{{order.price}}/-</td>
+
+                        {% if order.status %}
+                        
+                        <td><small class="badge bg-success">Completed</small></td>
+                        {% else %}
+                        <td><small class="badge bg-danger">Pending</small></td>
+                        {% endif %}
+                        
+                    </tr>
+                        {% endfor %}
+                    </tbody>
+            </table>
+    </div>
+
+
+{% endblock content %}

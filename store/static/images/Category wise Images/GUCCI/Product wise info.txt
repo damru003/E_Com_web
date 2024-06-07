@@ -1,0 +1,158 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Gucci 1
+
+title = GUCCI GUILTY POUR FEMME EAU DE PARFUM WOMEN'S PERFUME SPRAY (30ML, 50ML, 90ML)
+
+discription = 
+
+About The Product:
+Gucci Guilty Pour Femme is a sexy oriental-floral fragrance for women.
+
+A new chapter for the Guilty fragrance line; Pour Femme is a more intense and richer version of the original scent. The advertising campaign featured singer Lana Del Ray and actor Jared Leto.
+
+Fragrance Type:
+Floral
+
+
+Fragrance Notes:
+- Top notes: Mandora, Pink Pepper, Bergamot
+- Middle notes: Lilac, Geranium Oil, Rose, Violet
+- Base notes: Patchouli, Amber
+
+Launched:
+
+2019
+
+price = 5699rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Gucci 2
+
+title = GUCCI GUILTY POUR HOMME EAU DE TOILETTE MEN'S AFTERSHAVE SPRAY (50ML, 90ML, 150ML)
+
+discription = 
+
+About The Product:
+Guilty Pour Homme by Gucci is a fresh and alluring aromatic-woody fragrance for men.
+Designed for men who know what they want and how to get it, it is seductive blend of Amalfi lemon, orange blossom and musk.
+Perfect for evening wear.
+
+
+Fragrance Type:
+Aromatic, Woody
+
+Fragrance Notes:
+- Top notes: Lavender, Amalfi Lemon
+- Middle notes: African Orange Flower
+- Base notes: Virginia Cedar, Patchouli, Vanilla
+
+Launched:
+2011
+
+price = 5899rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Gucci 3
+
+title = GUCCI OUD INTENSE UNISEX EAU DE PARFUM SPRAY (90ML)
+
+discription = 
+
+About The Product:
+Intense Oud by Gucci is an Amber fragrance for women and men. An opulent and evocative unisex scent, that screams Gucci with its' modern and rich sensual olfactory offering. 
+The fragrance is inspired by Eastern exotic adventures, a life you could have, a life of voyaging and finding yourself.
+
+Fragrance Type:
+Amber
+
+Fragrance Notes:
+- Top notes: Mandarin Orange, Pear, Green Notes
+- Middle notes: Tea Rose, Tiger Orchid
+- Base notes: Toffee, Patchouli
+
+Launched:
+2016
+
+price = 5899rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Gucci 4
+
+title = GUCCI BLOOM EAU DE TOILETTE WOMEN'S PERFUME SPRAY (30ML, 50ML, 100ML)
+
+discription = 
+
+About The Product:
+Gucci Bloom EDT by Gucci is a Floral fragrance for women. A courageous scent that transports you to a beautiful garden, full of colourful flowers in bloom. 
+A summery spray that represents the diversity and uniqueness of a woman; an attitude of freedom to be who you want to be.
+
+
+Fragrance Type:
+Floral
+
+Fragrance Notes:
+- Top notes: Neroli, Bergamot, Mandarin Orange and Lemon
+- Middle notes: Tuberose, Jasmine, Orange Blossom and Rangoon Creeper
+- Base notes: Musk and Sandalwood
+
+Launched:
+2022
+
+price = 5499rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Gucci 5
+
+title = GUCCI FLORA GORGEOUS JASMINE EAU DE PARFUM WOMEN'S PERFUME SPRAY (30ML, 50ML, 100ML)
+
+discription = 
+
+About The Product:
+Flora Gorgeous Jasmine by Gucci is a Floral fragrance for women. Smell gorgeous like a summer haze with this Flora Gorgeous fragrance perfect for those hot months. 
+Blended with base notes of sandalwood and benzoin, the sensual notes create a skin imprint unique to the wearer. Its energy of inner joy is further lifted with notes of mandarine Essence and magnolia Accord, 
+which infuse the scent with a joyful feeling.
+
+Fragrance Type:
+Floral
+
+Fragrance Notes:
+- Top Notes: Italian Mandarin, Bergamot and Black Pepper
+- Middle Notes: Jasmine, Jasmine Sambac, Magnolia and Damask Rose
+- Base Notes: Benzoin, Australian Sandalwood and Patchouli
+
+Launched:
+2022
+
+price = 6399rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Gucci 6
+
+title = GUCCI THE ALCHEMIST'S GARDEN A GLOAMING NIGHT EAU DE PARFUM WOMEN'S PERFUME SPRAY (100ML)
+
+discription = 
+
+About The Product:
+A Gloaming Night by Gucci is a Woody Spicy fragrance for women and men. A warm and elegant fragrance that evokes the colours of a sunset. 
+Just as no two sunsets are the same from wherever you see them in the world, A Gloaming Night works alone or together with some of the collection’s oils and perfumed waters for a truly personalised finish like no other. 
+
+Fragrance Type:
+Woody Spicy
+
+Fragrance Notes:
+- Top notes: Cinnamon
+- Middle notes: Vetiver
+- Base notes: Patchouli
+
+Launched:
+2021
+
+price = 23799rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

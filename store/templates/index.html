@@ -1,0 +1,145 @@
+{% extends 'base.html' %}
+
+{% load static %}
+
+{% block title %} Home {% endblock title %}
+
+{% block content %}
+
+
+<div>
+  <img src="{% static "images/headerimage.jpg" %}" class="img-fluid">
+</div>
+
+
+<!--About Section start-->
+
+<div class="container mt-5 py-3">  
+    <h2 class="text-center fw-bold" style="font-size: 32px; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">About Us</h2>
+    <div class="row mt-5">
+
+      <div class="col-md-6">
+        <img src="https://img.freepik.com/free-photo/front-view-perfume-bottle-biege-blurred-background_140725-145528.jpg" class="img-fluid">  
+      </div>
+
+        <div class="col-md-6 my-3 py-3">
+            <p class="fw-bold">WELCOME TO PERFUME PARADISE, THE INDIAN'S PREMIER ONLINE FRAGRANCE & BEAUTY STORE.
+
+            <p class="text-lowercase">STOCKING A RANGE OF SPECIALLY SELECTED PERFUMES, AFTERSHAVES & GIFT SETS FROM LUXURY BRANDS SUCH AS HUGO BOSS, GUCCI, ARMANI, PACO RABANNE, CALVIN KLEIN, DKNY, JIMMY CHOO & MANY MORE.</p> 
+            
+            <p class="text-lowercase">OUR CUSTOMER FOCUSED APPROACH MEANS THAT OUR BUSINESS IS BUILT AROUND YOU. WE SET OUT TO PROVIDE THE BEST PRODUCTS, AT THE BEST PRICE WITH THE BEST CUSTOMER CARE PACKAGE ON THE MARKET.</p> 
+            
+            <p class="text-lowercase">WE HAVE BUILT AN EXTENSIVE GLOBAL NETWORK OF BRANDS & SUPPLIERS WHICH ENABLES US TO SOURCE THE LATEST FRAGRANCES AT A GREAT PRICE, WHICH IS THE REASON WE ARE ABLE TO KEEP OUR PRICES LOW. </p>
+
+            <button class="btn btn-danger"><a href="{% url 'products' %}" style="text-decoration: none; color: white;">Our Products</a></button>
+        
+        </div>
+    </div>
+</div>
+
+<!--About Section end-->
+
+
+<!--Crousel Start-->
+<div class="container-fluid p-0 mt-5">
+    <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+        
+        <div class="carousel-item active" data-bs-interval="2000">
+            <img src="{% static 'images/Crousel images/Crousel 2.PNG'%}" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+            <img src="{% static 'images/Crousel images/Crousel 3.PNG'%}" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+            <img src="{% static 'images/Crousel images/Crousel 4.PNG'%}" class="d-block w-100" alt="...">
+        </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+</div>
+<!--Crousel End-->
+
+
+
+<!--Products start-->
+
+    <div class="container mt-5">
+      <h2 class="text-center fw-bold display-6 text-danger">Our Brands</h2>
+      <br>
+        <div class="row">
+
+            <div class="col-md-4 mt-3 mb-3">
+            <a href="{% url 'products' %}" style="text-decoration: none; color: black;">
+                <div class="card">
+                <img src="{% static 'images/Category wise Images/ARMANI/Armani 1.PNG'%}" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title text-center">ARMANI</h5>
+                </div>
+                </div>
+            </a>
+            </div>
+
+
+            <div class="col-md-4 mt-3 mb-3">
+            <a href="{% url 'products' %}" style="text-decoration: none; color: black;">
+                <div class="card">
+                <img src="{% static 'images/Category wise Images/DIOR/Dior 1.PNG'%}" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title text-center">DIOR</h5>
+                </div>
+                </div>
+            </a>
+            </div>
+
+            <div class="col-md-4 mt-3 mb-3">
+            <a href="{% url 'products' %}" style="text-decoration: none; color: black;">
+                <div class="card">
+                <img src="{% static 'images/Category wise Images/GUCCI/gucci 1.PNG'%}" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title text-center">GUCCI</h5>
+                </div>
+                </div>
+            </a>
+            </div>
+
+            <div class="col-md-4 mt-3 mb-3">
+            <a href="{% url 'products' %}" style="text-decoration: none; color: black;">
+                <div class="card">
+                <img src="{% static 'images/Category wise Images/JIMMY CHOO/JIMMY CHOO 1.PNG'%}" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title text-center">JIMMY CHOO</h5>
+                </div>
+                </div>
+            </a>
+            </div>
+
+            <div class="col-md-4 mt-3 mb-3">
+            <a href="{% url 'products' %}" style="text-decoration: none; color: black;">
+                <div class="card">
+                <img src="{% static 'images/Category wise Images/MONT BLANC/MONT BLANC 1.PNG'%}" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title text-center">MONT BLANC</h5>
+                </div>
+                </div>
+            </a>
+            </div>
+
+        
+        </div>
+      
+    </div>
+
+
+<!--Products End-->
+
+
+{% endblock content %}
+

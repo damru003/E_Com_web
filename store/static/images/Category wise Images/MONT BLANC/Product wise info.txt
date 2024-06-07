@@ -1,0 +1,159 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mont Blanc 1
+
+title = MONT BLANC EXPLORER EAU DE PARFUM MEN'S AFTERSHAVE SPRAY (30ML, 60ML, 100ML)
+
+discription = 
+
+About The Product: 
+Mont Blanc Explorer, a distinguished men's aftershave, offers a scent that speaks of adventure and confidence. As a standout choice in luxury aftershaves, 
+it brings a sense of exploration to everyday grooming. The unique aroma of this aftershave sets it apart, appealing to those who value individuality and strength in their fragrance. 
+For daily wear or special occasions, Mont Blanc Explorer enhances presence with its distinctive blend. Perfume Direct also offers an array of aftershave gift sets for those seeking a variety of scents.
+
+Fragrance Type:
+Aromatic
+
+Fragrance Notes:
+- Top Notes: Bergamot, Pink Pepper, Clary Sage
+- Middle Notes: Leather, Haitian Vetiver
+- Base Notes: Indonesian Patchouli Leaf, Cacao Pod, Akigalawood, Ambroxan
+
+Launched:
+2019
+
+price = 2999rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mont Blanc 2
+
+title = MONT BLANC LEGEND RED EAU DE PARFUM MEN'S AFTERSHAVE SPRAY (30ML, 50ML, 100ML)
+
+discription = 
+
+About The Product:
+Legend Red by Montblanc is a citrus, woody fragrance for men. A bold, confident, powerful fragrance with strength. 
+The Legend Red man is charismatic and care-free, nothing can get him down for long. Legend Red opens with a burst of blood oranges and zesty grapefruit, 
+combined with a spicy touch of cardamom. The heart reveals the intense aromatic harmony of juniper berries and clary sage, strengthened with cedarwood, while the trail of mahogany, 
+tonka beans, and Atlas cedar form the base of the fragrance.
+
+Fragrance Type:
+Citrusy, Spicy, Woody
+
+Fragrance Notes:
+- Top Notes: Blood Orange, Grapefruit, Cardamom
+- Middle Notes: Cedar, Juniper Berries, Clary Sage
+- Base Notes: Mahogany, Tonka Bean, Atlas Cedar
+
+Launched:
+2022
+
+price = 2399rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mont Blanc 3
+
+title = MONT BLANC LEGEND EAU DE PARFUM MEN'S AFTERSHAVE SPRAY (50ML, 100ML)
+
+discription = 
+
+About The Product:
+Legend by Montblanc is an aromatic fougere fragrance for men. A striking and masculine fragrance that has exciting contrasts to create a unique olfactory scent for inspiring and confident men. 
+The fragrance opens with fresh aromatic tones of bergamot, lavender, pineapple leaf and exotic verbena.The heart emphasises oakmoss note merged with geranium, coumarin, apple, rose, and Pomarosa molecule.
+
+Fragrance Type:
+Aromatic, Fougere
+
+Fragrance Notes:
+- Top notes: Lavender, Pineapple, Bergamot, Lemon Verbena
+- Middle notes: Red Apple, Dried Fruits, Oak Moss, Geranium, Coumarin, Rose
+- Base note: Tonka Bean, Sandalwood
+
+Launched:
+2011
+
+price = 3799rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mont Blanc 4
+
+title = MONT BLANC EMBLEM EAU DE TOILETTE MEN'S AFTERSHAVE SPRAY (40ML, 60ML, 100ML)
+
+discription = 
+
+About The Product:
+From the world renowned luxury brand comes a fragrance for the refined man. A fragrance to inspire confidence, composure and drive. 
+Launched in 2014, Montblanc Emblem is a fresh, woody, aromatic scent opening with a splash of aromatic sage and cardamom mixed grapefruit with a base of intense woods and tonka bean. 
+The bottle pays tribute to the Montblanc heritage, symbol of the six glacial valleys bordering the highest peak in Europe. An object to be kept, a talisman for which only a man of natural authority can be the custodian.
+
+
+Fragrance Type:
+Warm Spicy, Aromatic
+
+Fragrance Notes:
+- Top Notes: Clary Sage, Cardamom, Grapefruit
+- Middle Notes: Violet Leaf, Cinnamon
+- Base Notes: Woody Notes, Tonka Bean
+
+Launched:
+2014
+
+price = 4799rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mont Blanc 5
+
+title = MONT BLANC LADY EMBLEM EAU DE PARFUM WOMEN'S PERFUME SPRAY (30ML, 50ML, 75ML)
+
+discription = 
+
+About The Product:
+A Mont Blanc diamond symbolise love, purity and beauty. Inside, the luminous rays reflect infinitely and the brilliance refracts to create a prism in a dizzying range of colours. 
+And it is this masterpiece of gemmological craftsmanship that inspired Mont Blanc’s women's fragrance, Lady Emblem. Created in 2015, Lady Emblem is a feminine, sweet fragrance by Montblanc. 
+Floral, woody, fruity; opening with red currant jam, pink rose and peach serving as a delightful appetiser before the fragrance invites you into a solid core of patchouli, sandalwood and rosewood.
+
+Fragrance Type:
+Floral, Woody, Fruity
+
+Fragrance Notes:
+- Top Notes: Black Currant, Marmalade, Peach, Rose
+- Middle Notes: Patchouli, Rosewood, Sandalwood
+- Base Notes: Musk, Raspberry
+
+Launched:
+2019
+
+price = 4199rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mont Blanc 6
+
+title = MONT BLANC LEGEND EAU DE TOILETTE MEN'S AFTERSHAVE SPRAY (30ML, 50ML, 100ML, 200ML)
+
+discription = 
+
+About The Product:
+Legend by Montblanc is an Aromatic Fougere fragrance for men. An aromatic fougere fragrance, filled with contrasts. Dedicated to the inspiring, self-confident man. 
+This contemporary fragrance has depth, modernity and the right amount of discreet mysteriousness. The bottle, with it's heavy and slightly curved design of black and metallic colours is inspired by the famous Meisterstuck pen design, 
+made of glass and metal.
+
+Fragrance Type:
+ Aromatic Fougere
+
+Fragrance Notes:
+- Top Notes: Lavender, Pineapple, Bergamot and Lemon Verbena
+- Middle Notes: Red Apple, Dried Fruits, Oak Moss, Geranium, Coumarin and Rose
+- Base Notes: Tonka Bean and Sandalwood
+
+Launched:
+2011
+
+
+price = 2399rs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
